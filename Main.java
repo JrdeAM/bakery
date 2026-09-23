@@ -30,7 +30,7 @@ public class Main {
                                 new VanillaCake()),
                         "FANCY"));
 
-        // Bolo de morango completo
+        // Bolo de morango com granulado duplo e dois dizeres
         order.addCake(
                 new SayingDecorator(
                         new SayingDecorator(
