@@ -1,3 +1,7 @@
+import cake.*;
+import decorator.*;
+import order.*;
+
 /**
  * Create an order and print it
  */

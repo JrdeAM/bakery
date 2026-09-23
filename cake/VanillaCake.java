@@ -1,3 +1,5 @@
+package cake;
+
 public class VanillaCake extends Cake {
     @Override
     public String getDescription() {

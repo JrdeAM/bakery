@@ -1,3 +1,7 @@
+package decorator;
+
+import cake.Cake;
+
 public class MultiLayeredDecorator extends CakeDecorator {
 
     public MultiLayeredDecorator(Cake cake) {

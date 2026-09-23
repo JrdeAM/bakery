@@ -1,3 +1,5 @@
+package cake;
+
 /**
  * Cake bake class.
  */

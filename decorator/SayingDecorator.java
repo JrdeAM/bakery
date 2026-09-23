@@ -1,3 +1,7 @@
+package decorator;
+
+import cake.Cake;
+
 public class SayingDecorator extends CakeDecorator {
 
     private String saying;

@@ -1,3 +1,7 @@
+package decorator;
+
+import cake.Cake;
+
 public class SprinklesDecorator extends CakeDecorator {
 
     public SprinklesDecorator(Cake cake) {

@@ -1,3 +1,7 @@
+package decorator;
+
+import cake.Cake;
+
 public abstract class CakeDecorator extends Cake {
 
     protected Cake cake;
